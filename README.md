@@ -46,3 +46,5 @@ State the processes for your company then apply your modeling technique/s with d
 ## Tools and Technologies:
 - PL SQL
 - TOAD
+- Data Warehouse Concepts
+- Data Warehouse Modeling
