@@ -2,21 +2,6 @@
 
 The project’s purpose is to analyze the flight activities of some airline companies and their frequent flyers and model its data warehouse schema to store historical data, and answer some business questions.
 
-
-## Project Datasets:
-
-
-
-## Project Files:
-
-- ```Project Documentation.pdf``` Description for the project's processes, tables, and queries.
-- ```Create Physical Schema.sql```PL SQL queries to create the project physical Schema and its objects.
-- ```Create Physical Tables.sql``` PL SQL queries to create the project physical tables.
-- ```Insert Dummy Data to Tables.sql``` PL SQL queries to insert some dummy data to the tables.
-- ```Logical Model.pdf``` The logical model of the project.
-- ```Physical Tables Information``` Contains information about the tables, their data types, and constraints.
-- ```Indexes and Partitions Indexes.pdf``` information about some indexes and partition indexes in the data warehouse.
-
 ## Project Discription:
 
 A major airline company decided to hire you in order to assist the executive management to analyze their current business processes and expand the company by discovering new opportunities.
@@ -32,7 +17,6 @@ Analysis should include interaction type and problem severity (if issue exists)
 
 State the processes for your company then apply your modeling technique/s with demonstrative layering methodology to design the logical and physical design to support such kind of analysis for decision support.
 
-
 ## Project Steps:
 - 1- Analyze the business and Planning for the logical schema.
 - 2- Define the Business Process.
@@ -41,6 +25,18 @@ State the processes for your company then apply your modeling technique/s with d
 - 5- Build the physical tables.
 - 6- Insert dummy data into the tables.
 - 7- Create queries to answer some business questions.
+
+
+
+## Project Files:
+
+- ```Project Documentation.pdf``` Description for the project's processes, tables, and queries.
+- ```Create Physical Schema.sql```PL SQL queries to create the project physical Schema and its objects.
+- ```Create Physical Tables.sql``` PL SQL queries to create the project physical tables.
+- ```Insert Dummy Data to Tables.sql``` PL SQL queries to insert some dummy data to the tables.
+- ```Logical Model.pdf``` The logical model of the project.
+- ```Physical Tables Information``` Contains information about the tables, their data types, and constraints.
+- ```Indexes and Partitions Indexes.pdf``` information about some indexes and partition indexes in the data warehouse.
 
 
 ## Tools and Technologies:
