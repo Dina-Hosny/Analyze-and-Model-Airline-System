@@ -4,27 +4,31 @@ The project’s purpose is to analyze the flight activities of some airline comp
 
 ## Project Discription:
 
-A major airline company decided to hire you in order to assist the executive management to analyze their current business processes and expand the company by discovering new opportunities.
+A major airline company decided to analyze its current business processes and expand the company by discovering new opportunities.
 
-Executives decided that the first deliverable should focus on the flight activity in order to ensure good ongoing business process.
+The analysis should focus on the flight activity to help the executive management department with understanding and ensure a good ongoing business process.
+
 The marketing department wants to analyze what flights the company’s frequent flyers take, what fare basis they pay, how often they upgrade, how they earn and redeem their frequent flyer miles, whether they respond to special fare promotions, how long their overnight stays are, and what proportion of these frequent flyers have gold, platinum or titanium status.
 
-Your analysis shall also include the reservation process where finance team will be interested in analyzing the company profit. Note that reservation processes can take place through multiple channels.
+The analysis shall also include the reservation process where the finance team will be interested in analyzing the company's profit.
+The analysis should handle that the reservation processes can take place through multiple channels.
 
-Airline company also provides customer care interaction before, within and after your trip in order to handle customer inquiries, complaints and keep their feedback for business enhancements.
+The airline company also provides customer care interaction before, within, and after the trip in order to handle customer inquiries, and complaints and keep their feedback for business enhancements.
+The analysis should include interaction type and problem severity (if the issue exists)
 
-Analysis should include interaction type and problem severity (if issue exists)
-
-State the processes for your company then apply your modeling technique/s with demonstrative layering methodology to design the logical and physical design to support such kind of analysis for decision support.
+To start the project, state the processes for the airline company, then apply the modeling technique/s with demonstrative layering methodology to design the logical and physical design to support such kind of analysis for decision support.
 
 ## Project Steps:
-- 1- Analyze the business and Planning for the logical schema.
-- 2- Define the Business Process.
-- 3- Define the Dimensions and Facts Tables.
-- 4- Build the logical model.
-- 5- Build the physical tables.
-- 6- Insert dummy data into the tables.
-- 7- Create queries to answer some business questions.
+
+- 1- Stating the processes for the airline company.
+- 2- Analyzing the business and planning for the logical schema.
+- 3- Choosing the modeling techniques with demonstrative layering methodology that will apply the best practice of the analysis.
+- 4- Define the Business Process Clearly.
+- 5- Define the Dimensions and Facts Tables.
+- 6- Build the logical model.
+- 7- Build the physical tables.
+- 8- Insert dummy data into the tables.
+- 9- Create queries to answer some business questions.
 
 
 
